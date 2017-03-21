@@ -210,3 +210,10 @@ h3{
 	top: 10px;
 	font-size: 20px;
 }
+.recommend{
+	position: absolute;
+	color: red;
+	right: 10px;
+	top: 5px;
+	font-size: 24px;
+}
